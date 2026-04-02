@@ -53,7 +53,6 @@ I’m a passionate Frontend Developer from Lahore, Pakistan. I specialize in bui
 
 ### 📫 Let's Connect:
 
-- 🌐 **Portfolio:** [portfolioab-one.vercel.app](https://portfolioab-one.vercel.app/)
 - 🌐 **Portfolio:** <a href="https://portfolioab-one.vercel.app/" target="_blank">portfolioab-one.vercel.app</a>
 - 💼 **LinkedIn:** <a href="https://linkedin.com/in/m-abdullah557" target="_blank">in/m-abdullah557</a>
 - 📧 **Email:** <a href="mailto:devmabdullah5@gmail.com" target="_blank">devmabdullah5@gmail.com</a>
